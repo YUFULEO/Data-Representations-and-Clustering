@@ -1,2 +1,10 @@
 # Data-Representations-and-Clustering
-Clustering on Text Data / Deep Learning and Clustering of Image Data / Clustering using both image and text
+
+## Part 1:
+Clustering on Text Data
+
+## Part 2:
+Deep Learning and Clustering of Image Data 
+
+## Part 3:
+Clustering using both image and text
